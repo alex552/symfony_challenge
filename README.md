@@ -28,4 +28,6 @@ create a new repository with the current code base. commit your changes and send
 
 
 ## Further improvements
-- Filled by you
+- Phpunit testing 
+- movie search and filters
+- switch to API
